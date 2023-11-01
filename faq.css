@@ -1,0 +1,27 @@
+/* faq.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
